@@ -29,4 +29,4 @@ import tensorflow as tf
 tf.random.set_seed(seed_value)
 ```
 
-文章ㄌ
+文章連結： https://andy6804tw.github.io/2022/06/04/tensorflow-dnn-model-reproducible/
